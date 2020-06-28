@@ -1,6 +1,6 @@
-### Nginx Reverse Proxy with cache to webserver local like apache running on port 8080
+## Nginx Reverse Proxy with cache to webserver local like apache running on port 8080
 
-#### Steps
+### Steps
 
 ##### 1. Install nginx and rename the nginx.conf file
 
@@ -14,4 +14,15 @@ yum install nginx -y
 systemctl enable nginx && systemctl start nginx
 ```
 
-Done!
+## Version
+
+1.0
+
+## Autor
+
+ ***Joel Pinheiro** - *Github* - https://github.com/joelcpinheiro/
+
+## License
+
+Use where you think you will contribute.
+
