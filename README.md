@@ -1,4 +1,4 @@
-## Nginx Reverse Proxy with cache to webserver local like apache running on port 8080
+## Nginx Reverse Proxy with cache to webserver local running Apache on port 8080
 
 ### Steps
 
